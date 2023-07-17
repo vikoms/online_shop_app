@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "743409393872",
+    "project_id": "flutter-firebase-3d58e",
+    "storage_bucket": "flutter-firebase-3d58e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743409393872:android:1b41bb6bf437c802eb7ed5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743409393872-hb3dkd82up66g8evf1fjjpm9h4nj5vm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTK1o8vYu0tJe8HNtHLDpniZbgmSHy3gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743409393872-hb3dkd82up66g8evf1fjjpm9h4nj5vm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743409393872:android:249de1b0a46919caeb7ed5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743409393872-hb3dkd82up66g8evf1fjjpm9h4nj5vm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTK1o8vYu0tJe8HNtHLDpniZbgmSHy3gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743409393872-hb3dkd82up66g8evf1fjjpm9h4nj5vm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743409393872:android:1e9433b5303c3eb2eb7ed5",
+        "android_client_info": {
+          "package_name": "com.viko.click_to_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743409393872-hb3dkd82up66g8evf1fjjpm9h4nj5vm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTK1o8vYu0tJe8HNtHLDpniZbgmSHy3gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743409393872-hb3dkd82up66g8evf1fjjpm9h4nj5vm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
